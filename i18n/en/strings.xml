@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="welcome_message">Welcome to FlexibleTask</string>
+    <string name="user_agent_message">UAgent set to</string>
+    <string name="format_test">Name: %s</string>
+    <string name="list_title">List</string> 
+    <string name="today_title">Today</string>
+    <string name="week_title">Week</string>
+    <string name="month_title">Month</string>
+    <string name="done_title">Done</string>
+</resources>

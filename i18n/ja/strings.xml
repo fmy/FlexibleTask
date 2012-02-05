@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="welcome_message">FlexibleTaskにようこそ</string>
+    <string name="user_agent_message">UAgent set to</string>
+    <string name="format_test">名前：%s</string>
+    <string name="list_title">リスト</string> 
+    <string name="today_title">今日</string>
+    <string name="week_title">今週</string>
+    <string name="month_title">今月</string>
+    <string name="done_title">完了</string>
+</resources>
