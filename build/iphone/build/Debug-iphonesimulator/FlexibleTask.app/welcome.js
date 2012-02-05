@@ -1,1 +1,0 @@
-/Users/fumiya/Documents/Titanium Studio Workspace/FlexibleTask/Resources/welcome.js
