@@ -28,7 +28,7 @@ tabGroup.addTab tab5
 
 tabGroup.setActiveTab 1
 
-tabGroup.open transition: Titanium.UI.iPhone and Titanium.UI.iPhone.AnimationStyle.FLIP_FROM_LEFT
+tabGroup.open transition: Titanium.UI.iPhone and Titanium.UI.iPhone.AnimationStyle.FLIP_FROM_RIGHT
 
 messageWin = Titanium.UI.createWindow
     height:30,

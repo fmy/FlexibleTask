@@ -69,7 +69,7 @@ tabGroup.addTab(tab5);
 tabGroup.setActiveTab(1);
 
 tabGroup.open({
-  transition: Titanium.UI.iPhone && Titanium.UI.iPhone.AnimationStyle.FLIP_FROM_LEFT
+  transition: Titanium.UI.iPhone && Titanium.UI.iPhone.AnimationStyle.FLIP_FROM_RIGHT
 });
 
 messageWin = Titanium.UI.createWindow({
