@@ -2,4 +2,4 @@
 *.pyc
 *.pyo
 .DS_Store
-build/*
+build/
